@@ -28,8 +28,8 @@ import (
 	mathrand "math/rand"
 
 	"github.com/lestrrat-go/jwx/v2/jwk"
-	"github.com/openpubkey/openpubkey/discover"
-	"github.com/openpubkey/openpubkey/oidc"
+	"github.com/Joby-Security/openpubkey/discover"
+	"github.com/Joby-Security/openpubkey/oidc"
 	"golang.org/x/exp/maps"
 )
 

@@ -23,7 +23,7 @@ import (
 
 	"github.com/lestrrat-go/jwx/v2/jwa"
 	"github.com/lestrrat-go/jwx/v2/jws"
-	"github.com/openpubkey/openpubkey/oidc"
+	"github.com/Joby-Security/openpubkey/oidc"
 )
 
 type CommitmentType struct {
