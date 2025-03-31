@@ -24,8 +24,8 @@ import (
 	"github.com/go-webauthn/webauthn/protocol"
 	"github.com/go-webauthn/webauthn/webauthn"
 	"github.com/lestrrat-go/jwx/v2/jwa"
-	"github.com/openpubkey/openpubkey/cosigner"
-	"github.com/openpubkey/openpubkey/cosigner/mocks"
+	"github.com/Joby-Security/openpubkey/cosigner"
+	"github.com/Joby-Security/openpubkey/cosigner/mocks"
 )
 
 func NewUser(as *cosigner.AuthState) *user {

@@ -24,11 +24,11 @@ import (
 
 	"github.com/lestrrat-go/jwx/v2/jwa"
 	"github.com/lestrrat-go/jwx/v2/jwk"
-	"github.com/openpubkey/openpubkey/cosigner"
-	"github.com/openpubkey/openpubkey/discover"
-	"github.com/openpubkey/openpubkey/pktoken"
-	"github.com/openpubkey/openpubkey/pktoken/mocks"
-	"github.com/openpubkey/openpubkey/util"
+	"github.com/Joby-Security/openpubkey/cosigner"
+	"github.com/Joby-Security/openpubkey/discover"
+	"github.com/Joby-Security/openpubkey/pktoken"
+	"github.com/Joby-Security/openpubkey/pktoken/mocks"
+	"github.com/Joby-Security/openpubkey/util"
 	"github.com/stretchr/testify/require"
 )
 

@@ -21,10 +21,10 @@ import (
 	"fmt"
 
 	"github.com/lestrrat-go/jwx/v2/jws"
-	"github.com/openpubkey/openpubkey/cosigner"
-	"github.com/openpubkey/openpubkey/gq"
-	"github.com/openpubkey/openpubkey/pktoken"
-	"github.com/openpubkey/openpubkey/pktoken/clientinstance"
+	"github.com/Joby-Security/openpubkey/cosigner"
+	"github.com/Joby-Security/openpubkey/gq"
+	"github.com/Joby-Security/openpubkey/pktoken"
+	"github.com/Joby-Security/openpubkey/pktoken/clientinstance"
 )
 
 type ProviderVerifier interface {

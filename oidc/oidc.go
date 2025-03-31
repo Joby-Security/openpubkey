@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/openpubkey/openpubkey/util"
+	"github.com/Joby-Security/openpubkey/util"
 )
 
 type OidcClaims struct {

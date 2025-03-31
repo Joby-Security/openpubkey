@@ -24,8 +24,8 @@ import (
 
 	"github.com/lestrrat-go/jwx/v2/jwa"
 	"github.com/lestrrat-go/jwx/v2/jws"
-	"github.com/openpubkey/openpubkey/oidc"
-	"github.com/openpubkey/openpubkey/util"
+	"github.com/Joby-Security/openpubkey/oidc"
+	"github.com/Joby-Security/openpubkey/util"
 	"github.com/stretchr/testify/require"
 )
 

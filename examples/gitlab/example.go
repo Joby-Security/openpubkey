@@ -21,9 +21,9 @@ import (
 	"encoding/base64"
 	"fmt"
 
-	"github.com/openpubkey/openpubkey/client"
-	"github.com/openpubkey/openpubkey/providers"
-	"github.com/openpubkey/openpubkey/verifier"
+	"github.com/Joby-Security/openpubkey/client"
+	"github.com/Joby-Security/openpubkey/providers"
+	"github.com/Joby-Security/openpubkey/verifier"
 )
 
 type Opts struct {

@@ -31,9 +31,9 @@ import (
 	"time"
 
 	"github.com/lestrrat-go/jwx/v2/jws"
-	"github.com/openpubkey/openpubkey/cosigner/msgs"
-	"github.com/openpubkey/openpubkey/pktoken"
-	"github.com/openpubkey/openpubkey/util"
+	"github.com/Joby-Security/openpubkey/cosigner/msgs"
+	"github.com/Joby-Security/openpubkey/pktoken"
+	"github.com/Joby-Security/openpubkey/util"
 	"github.com/sirupsen/logrus"
 )
 

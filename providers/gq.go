@@ -25,8 +25,8 @@ import (
 
 	"github.com/lestrrat-go/jwx/v2/jwk"
 	"github.com/lestrrat-go/jwx/v2/jws"
-	"github.com/openpubkey/openpubkey/gq"
-	"github.com/openpubkey/openpubkey/util"
+	"github.com/Joby-Security/openpubkey/gq"
+	"github.com/Joby-Security/openpubkey/util"
 )
 
 func CreateGQToken(ctx context.Context, idToken []byte, op OpenIdProvider) ([]byte, error) {

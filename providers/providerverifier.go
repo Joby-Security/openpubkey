@@ -25,11 +25,11 @@ import (
 
 	"github.com/lestrrat-go/jwx/v2/jwa"
 	"github.com/lestrrat-go/jwx/v2/jws"
-	"github.com/openpubkey/openpubkey/discover"
-	"github.com/openpubkey/openpubkey/gq"
-	"github.com/openpubkey/openpubkey/oidc"
-	"github.com/openpubkey/openpubkey/pktoken/clientinstance"
-	"github.com/openpubkey/openpubkey/util"
+	"github.com/Joby-Security/openpubkey/discover"
+	"github.com/Joby-Security/openpubkey/gq"
+	"github.com/Joby-Security/openpubkey/oidc"
+	"github.com/Joby-Security/openpubkey/pktoken/clientinstance"
+	"github.com/Joby-Security/openpubkey/util"
 )
 
 const AudPrefixForGQCommitment = "OPENPUBKEY-PKTOKEN:"

@@ -23,13 +23,13 @@ import (
 	"testing"
 
 	"github.com/lestrrat-go/jwx/v2/jwa"
-	"github.com/openpubkey/openpubkey/client"
-	"github.com/openpubkey/openpubkey/discover"
-	pktoken_mocks "github.com/openpubkey/openpubkey/pktoken/mocks"
-	"github.com/openpubkey/openpubkey/providers"
-	"github.com/openpubkey/openpubkey/providers/mocks"
-	"github.com/openpubkey/openpubkey/util"
-	"github.com/openpubkey/openpubkey/verifier"
+	"github.com/Joby-Security/openpubkey/client"
+	"github.com/Joby-Security/openpubkey/discover"
+	pktoken_mocks "github.com/Joby-Security/openpubkey/pktoken/mocks"
+	"github.com/Joby-Security/openpubkey/providers"
+	"github.com/Joby-Security/openpubkey/providers/mocks"
+	"github.com/Joby-Security/openpubkey/util"
+	"github.com/Joby-Security/openpubkey/verifier"
 	"github.com/stretchr/testify/require"
 )
 

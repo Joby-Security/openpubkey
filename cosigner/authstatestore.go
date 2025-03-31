@@ -17,7 +17,7 @@
 package cosigner
 
 import (
-	"github.com/openpubkey/openpubkey/pktoken"
+	"github.com/Joby-Security/openpubkey/pktoken"
 )
 
 type AuthStateStore interface {

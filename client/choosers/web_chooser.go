@@ -29,8 +29,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/openpubkey/openpubkey/providers"
-	"github.com/openpubkey/openpubkey/util"
+	"github.com/Joby-Security/openpubkey/providers"
+	"github.com/Joby-Security/openpubkey/util"
 	"github.com/sirupsen/logrus"
 )
 

@@ -24,9 +24,9 @@ import (
 	"net/url"
 
 	"github.com/awnumar/memguard"
-	"github.com/openpubkey/openpubkey/discover"
-	simpleoidc "github.com/openpubkey/openpubkey/oidc"
-	"github.com/openpubkey/openpubkey/pktoken/clientinstance"
+	"github.com/Joby-Security/openpubkey/discover"
+	simpleoidc "github.com/Joby-Security/openpubkey/oidc"
+	"github.com/Joby-Security/openpubkey/pktoken/clientinstance"
 )
 
 const githubIssuer = "https://token.actions.githubusercontent.com"

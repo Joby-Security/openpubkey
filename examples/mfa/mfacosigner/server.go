@@ -24,9 +24,9 @@ import (
 	"github.com/go-webauthn/webauthn/protocol"
 	"github.com/go-webauthn/webauthn/webauthn"
 	"github.com/lestrrat-go/jwx/v2/jwa"
-	"github.com/openpubkey/openpubkey/examples/mfa/mfacosigner/jwks"
-	"github.com/openpubkey/openpubkey/pktoken"
-	"github.com/openpubkey/openpubkey/util"
+	"github.com/Joby-Security/openpubkey/examples/mfa/mfacosigner/jwks"
+	"github.com/Joby-Security/openpubkey/pktoken"
+	"github.com/Joby-Security/openpubkey/util"
 )
 
 type Server struct {

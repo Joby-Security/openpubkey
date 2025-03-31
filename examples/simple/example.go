@@ -21,11 +21,11 @@ import (
 	"fmt"
 
 	"github.com/goccy/go-json"
-	"github.com/openpubkey/openpubkey/client"
-	"github.com/openpubkey/openpubkey/oidc"
-	"github.com/openpubkey/openpubkey/pktoken"
-	"github.com/openpubkey/openpubkey/providers"
-	"github.com/openpubkey/openpubkey/verifier"
+	"github.com/Joby-Security/openpubkey/client"
+	"github.com/Joby-Security/openpubkey/oidc"
+	"github.com/Joby-Security/openpubkey/pktoken"
+	"github.com/Joby-Security/openpubkey/providers"
+	"github.com/Joby-Security/openpubkey/verifier"
 )
 
 func Sign(op client.OpenIdProvider) ([]byte, []byte, error) {

@@ -22,7 +22,7 @@ import (
 	"math/big"
 
 	"github.com/lestrrat-go/jwx/v2/jws"
-	"github.com/openpubkey/openpubkey/util"
+	"github.com/Joby-Security/openpubkey/util"
 )
 
 // Verify verifies a GQ1 signature over a message, using the public identity of the signer.

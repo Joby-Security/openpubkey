@@ -22,8 +22,8 @@ import (
 	"testing"
 
 	"github.com/lestrrat-go/jwx/v2/jws"
-	"github.com/openpubkey/openpubkey/providers/mocks"
-	"github.com/openpubkey/openpubkey/util"
+	"github.com/Joby-Security/openpubkey/providers/mocks"
+	"github.com/Joby-Security/openpubkey/util"
 	"github.com/stretchr/testify/require"
 )
 

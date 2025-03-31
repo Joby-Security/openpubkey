@@ -25,14 +25,14 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/openpubkey/openpubkey/oidc"
-	"github.com/openpubkey/openpubkey/pktoken"
-	"github.com/openpubkey/openpubkey/pktoken/mocks"
+	"github.com/Joby-Security/openpubkey/oidc"
+	"github.com/Joby-Security/openpubkey/pktoken"
+	"github.com/Joby-Security/openpubkey/pktoken/mocks"
 
 	"github.com/lestrrat-go/jwx/v2/jwa"
 	"github.com/lestrrat-go/jwx/v2/jwk"
 
-	"github.com/openpubkey/openpubkey/util"
+	"github.com/Joby-Security/openpubkey/util"
 )
 
 func TestPkToken(t *testing.T) {

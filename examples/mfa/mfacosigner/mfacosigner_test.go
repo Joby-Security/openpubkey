@@ -23,11 +23,11 @@ import (
 
 	"github.com/go-webauthn/webauthn/webauthn"
 	"github.com/lestrrat-go/jwx/v2/jwa"
-	"github.com/openpubkey/openpubkey/client"
-	wauthnmock "github.com/openpubkey/openpubkey/examples/mfa/mfacosigner/mocks"
-	"github.com/openpubkey/openpubkey/pktoken"
-	"github.com/openpubkey/openpubkey/pktoken/mocks"
-	"github.com/openpubkey/openpubkey/util"
+	"github.com/Joby-Security/openpubkey/client"
+	wauthnmock "github.com/Joby-Security/openpubkey/examples/mfa/mfacosigner/mocks"
+	"github.com/Joby-Security/openpubkey/pktoken"
+	"github.com/Joby-Security/openpubkey/pktoken/mocks"
+	"github.com/Joby-Security/openpubkey/util"
 	"github.com/stretchr/testify/require"
 )
 

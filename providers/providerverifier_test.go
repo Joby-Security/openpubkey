@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/openpubkey/openpubkey/providers/mocks"
+	"github.com/Joby-Security/openpubkey/providers/mocks"
 	"github.com/stretchr/testify/require"
 )
 

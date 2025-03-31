@@ -21,9 +21,9 @@ import (
 	"crypto/rsa"
 	"testing"
 
-	"github.com/openpubkey/openpubkey/gq"
-	"github.com/openpubkey/openpubkey/oidc"
-	"github.com/openpubkey/openpubkey/util"
+	"github.com/Joby-Security/openpubkey/gq"
+	"github.com/Joby-Security/openpubkey/oidc"
+	"github.com/Joby-Security/openpubkey/util"
 	"github.com/stretchr/testify/require"
 	"golang.org/x/exp/maps"
 )

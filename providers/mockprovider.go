@@ -22,10 +22,10 @@ import (
 
 	"github.com/lestrrat-go/jwx/v2/jwa"
 	"github.com/lestrrat-go/jwx/v2/jws"
-	"github.com/openpubkey/openpubkey/discover"
-	simpleoidc "github.com/openpubkey/openpubkey/oidc"
-	"github.com/openpubkey/openpubkey/pktoken/clientinstance"
-	"github.com/openpubkey/openpubkey/providers/mocks"
+	"github.com/Joby-Security/openpubkey/discover"
+	simpleoidc "github.com/Joby-Security/openpubkey/oidc"
+	"github.com/Joby-Security/openpubkey/pktoken/clientinstance"
+	"github.com/Joby-Security/openpubkey/providers/mocks"
 )
 
 const mockProviderIssuer = "https://accounts.example.com"

@@ -23,7 +23,7 @@ import (
 	"testing"
 
 	"filippo.io/bigmod"
-	"github.com/openpubkey/openpubkey/util"
+	"github.com/Joby-Security/openpubkey/util"
 	"github.com/stretchr/testify/require"
 )
 

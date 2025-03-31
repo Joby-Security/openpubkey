@@ -22,9 +22,9 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/openpubkey/openpubkey/discover"
-	simpleoidc "github.com/openpubkey/openpubkey/oidc"
-	"github.com/openpubkey/openpubkey/pktoken/clientinstance"
+	"github.com/Joby-Security/openpubkey/discover"
+	simpleoidc "github.com/Joby-Security/openpubkey/oidc"
+	"github.com/Joby-Security/openpubkey/pktoken/clientinstance"
 )
 
 // Interface for interacting with the OP (OpenID Provider) that only returns

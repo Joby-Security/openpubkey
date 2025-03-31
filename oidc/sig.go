@@ -19,7 +19,7 @@ package oidc
 import (
 	"encoding/json"
 
-	"github.com/openpubkey/openpubkey/util"
+	"github.com/Joby-Security/openpubkey/util"
 )
 
 type Signature struct {
